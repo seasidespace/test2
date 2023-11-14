@@ -1,0 +1,11 @@
+.env
+__pycache__/
+secrets.toml
+.ruff_cache
+
+archived_logs/
+
+build/
+snowchat.egg-info/
+
+chroma_db
